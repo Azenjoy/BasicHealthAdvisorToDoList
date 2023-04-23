@@ -1,0 +1,31 @@
+
+body{
+	background-color: wheat;
+	color: brown;
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 10px;
+	}
+	button, input, label, li{
+	font-size: 25px;
+	font-family: sans-serif;
+		color: red;
+		border-radius: 10px;
+		margin: 10px;
+		border-color: transparent;
+	}
+	h1,title{
+		font-size: 35px;
+		margin-top: -5px;
+	}
+	span{
+		color: red;
+	}
+	p{
+		font-size: 25px;
+		margin: 15px;
+	}
+	ul{
+		font-size: 25px;
+		color: #5c4c42;
+	}
